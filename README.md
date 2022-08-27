@@ -13,4 +13,4 @@ The above Matlab code is used to create a dataset of Thermal images of the Guava
 The above Matlab Code is the Main code for performing Image Acquisition and Comparing of images.After Comarison of Images an output signal is sent to Arduino UNO Board for further Segregation.
 
 # segregator_code.ino
-The above Arduino C code takes the Matlab signal as Input and according to the signal received,it instructs the Segregation Motor to segregate the fruit or not. 
+The above Arduino C code takes Matlab signal as Input and according to the signal received,it instructs the Segregation Motor to segregate the fruit or not. 
